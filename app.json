@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Jumi Shop",
+    "slug": "jumi-shop-app",
+    "version": "1.0.0",
+    "scheme": "jumishop",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.jumi.shopapp"
+    }
+  }
+}
